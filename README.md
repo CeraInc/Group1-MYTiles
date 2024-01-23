@@ -20,7 +20,7 @@ eProject documentation at ...
 
 ============================
 
-eProject published at ...
+eProject published at : https://cerainc.github.io/Group1-MYTiles/
 ============================
 
 Thank you for spending your time to look at our work.

@@ -1,7 +1,7 @@
 T1.2309.M1 - eProject - Group 1
 Batch no.: T1.2309.M1
 
-CENTER NAME: ACE-HCMC-2-FPT
+CENTER NAME: APTECH FPT HCM
 
 Project title: MYTiles
 
@@ -20,7 +20,7 @@ eProject documentation at ...
 
 ============================
 
-eProject published at : https://cerainc.github.io/Group1-MYTiles/
+eProject published at : https://cerainc.github.io/Group1-MYTiles/index.html
 ============================
 
 Thank you for spending your time to look at our work.
